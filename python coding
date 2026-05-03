@@ -1,0 +1,16 @@
+# starting with basics slices in python 
+str = "Coding Ninjas"
+print(str[1])
+print(str[7:]) 
+print(str[0:6])
+print(str + ' Platform') 
+print(len(str)) 
+
+
+#output :
+o
+Ninjas
+Coding
+Coding Ninjas Platform
+13
+
